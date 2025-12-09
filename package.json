@@ -1,0 +1,31 @@
+{
+  "name": "dsa-mastery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.25",
+    "lucide-react": "^0.556.0",
+    "mongoose": "^9.0.1",
+    "next": "16.0.7",
+    "next-auth": "^4.24.13",
+    "prismjs": "^1.30.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-simple-code-editor": "^0.14.1",
+    "tailwind-merge": "^3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.7",
+    "tailwindcss": "^4"
+  }
+}
